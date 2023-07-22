@@ -4,6 +4,7 @@ require "uri"
 require "./kemal/*"
 require "./kemal/ext/*"
 require "./kemal/helpers/*"
+require "io-delimited-optimized"
 
 module Kemal
   # Overload of `self.run` with the default startup logging.

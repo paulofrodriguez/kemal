@@ -11,6 +11,11 @@ dependencies:
   exception_page:
     github: crystal-loot/exception_page
     version: ~> 0.3.0
+  io-delimited-optimized:
+    git: https://gist.github.com/jgaskins/91186b3451988f714b3bebe45b63e29d
+
+
+
 
 development_dependencies:
   ameba:
